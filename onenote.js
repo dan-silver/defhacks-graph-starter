@@ -1,5 +1,4 @@
 var load = require("cheerio").load;
-
 var graphClient = require('./graph-helper')()
 
 // admin@MOD559194.onmicrosoft.com
@@ -10,7 +9,7 @@ graphClient
         console.log(response)
     });
 
-// get the page ID
+// get the page ID in graph explorer
 // https://graph.microsoft.com/beta/me/notes/pages/
 
 graphClient

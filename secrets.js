@@ -1,4 +1,5 @@
-module.exports.REFRESH_TOKEN = "";
-module.exports.APPLICATION_ID = "";
-module.exports.REDIRECT_URI = "";
-module.exports.CLIENT_SECRET = "";
+module.exports.REFRESH_TOKEN = "OAQABAAAAAADRNYRQ3dhRSrm-4K-adpCJ8hSwsl9Vneqmx7W3Vva3UtzbNh5pVxRUNY6aJy7OqaqY4drXuxO9MuBLXTpXZChIDUEbUiUqPJXWoQCimkLk8txrFVa54j3HMUcv-ywJeMEhSaIba0gi8Aq7hj3M73XquzPSDCv37S2_mJRC9lvkSZsyDZ1_SToXsgnhpBut1xZxQjlOilTWvZXGHVfh_xc2cBeWUX4k_AYaMjEbwWSIec4eJZw-fn5lZfDf7NjiMz7LfWZYDg4qpBPFf30aFYfVTBWX1Z16E-NXe_lPdXU3o9tT7ZF7TyTmNac674uR2ii3OHGHy2p-nG-S_2PfQo1HKMHfJ42aEUNIRw8MPpApuG0xPstJMJBtzWxJjhKvi62DqtMQsh2Ugw4naAON9EiHDwbXvZgOgcxodmGNbfT6G4MdcuzJRtSzG-WeNBgSmdWecG8nivZKi5K95xAXQABg6mQJ-4zqlaz7szsYttRS4627K1MIPYDDZXbJzXF3pArYJmUFXJOJYPYOjtZfbFlVcWyK_VVOPgS1jT_J6smUz3wXqwv1qhE8ZVeO752GZ764fhi2mt7AXNOdrZ5mXf-Z0lqN5hNaweMicOzjmrZizcSo7yiNFS0BwZp5Ph89VsWzkHsNLcjLb8VorMNtn0buk-nolNMDc01W0Twi4ve5uhC7RB0RAeVu4o5ODqIiPKMtkFC820Dd7qm5dlykzKqv3FcO5XMpnnpzzX8lZ4L3iC_mjC0IKsL9e_IGUeGuU3WMmVyGR8SCJRTr3bN5Ca4m6Y5ixzkbI-iUuq3d9seuGSAA";
+module.exports.APPLICATION_ID = "597154cb-0677-4e26-92f4-b1a6784f4b72";
+module.exports.REDIRECT_URI = "https://localhost:3000";
+module.exports.CLIENT_SECRET = "LObTuWxSBJPSzpfUw3pcnZx";
+module.exports.SCOPES = "calendars.read calendars.readwrite files.read files.readwrite mail.read mail.send user.read user.readbasic.all user.readwrite Notes.ReadWrite.All offline_access";
