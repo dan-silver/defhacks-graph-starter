@@ -12,7 +12,7 @@ module.exports = function() {
                 .type('form')
                 .send({
                     client_id: secrets.APPLICATION_ID,
-                    scope: "calendars.read calendars.readwrite files.read files.readwrite mail.read mail.send notes.readwrite.all user.read user.readbasic.all user.readwrite",
+                    scope: secrets.SCOPES,
                     redirect_uri: secrets.REDIRECT_URI,
                     grant_type: "refresh_token",
                     client_secret: secrets.CLIENT_SECRET,
