@@ -9,6 +9,7 @@
 ### Which Microsoft account can I use?
 * If you have a university account with Office 365 (Outlook web app), I recommend using that!
 * Otherwise, contact Dan ([@dansilver82](https://twitter.com/dansilver82)) to get a sample account for the weekend
+* If you have an @outlook.com or @live.com email address, you can try using that account for some parts of the Graph
 
 ### Resources
 * Microsoft Graph Explorer - https://graph.microsoft.io/en-us/graph-explorer
