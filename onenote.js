@@ -1,8 +1,6 @@
 var load = require("cheerio").load;
 var graphClient = require('./graph-helper')()
 
-// admin@MOD559194.onmicrosoft.com
-
 graphClient
     .api("/me")
     .get(function(err, response) {
